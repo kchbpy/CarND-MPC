@@ -11,7 +11,7 @@ I used the model just as the teacher used in class.
 The car's state: [x, y, ψ, v]   
 Actuators: [δ, α]   
 Update equations:   
-![](imgs/func.jpg)
+![](imgs/func.JPG)
 
 **2.2 Timestep Length and Elapsed Duration**
 
@@ -53,6 +53,7 @@ After converting the coordinate, I use the `polyfit()` function to get the coeff
 
 
 **2.4 Model Predictive Control with Latency**
+
 As mentioned in 2.3.
 
 ## **3.Something Else**
